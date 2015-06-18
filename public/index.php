@@ -73,7 +73,7 @@
 
       <div class="header">
         <h1><?php print $meta['title']; ?></h1>
-        <p>Updated list of those who are missing or whose bodies have been recovered following storms and flooding throughout Central Texas the weekend of Memorial Day 2015. <a href="http://www.statesman.com/flist/weather/complete-coverage-severe-weather-and-flooding-may-/fxz/" target="_blank">Complete coverage > </a></p>
+        <p>Updated list of those who are missing or whose bodies have been recovered following storms and flooding throughout Central Texas the weekend of Memorial Day 2015. <a href="http://www.statesman.com/s/weather/may-2015-floods/" target="_blank">Complete coverage > </a></p>
       </div>
 
       <hr />
